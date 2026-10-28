@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "notes": "Them tao anh (text to image, anh tham chieu); tu luu PNG; sua hien thi the anh; nhan anh dung.",
-  "url": "data/bfec2e34583ada7e6af2.bin",
-  "sha256": "2903694f19ed60e8b59e23e677bd7422bb8ac0cc6030c689dffef7ccd1970a72",
-  "size": 21281280,
-  "signature": "MEYCIQCrOIExuX7TjOxJQoQJDRLvJqy+JUXNymsuJIp1hydDXQIhAOnIOuMQ4olgXV0+b9wqZi28OvdlkD4ff9ptgcW/WrqG"
+  "version": "1.0.3",
+  "notes": "Bao mat: ma hoa chuoi endpoint (API_URL license, Hatch) de khong lo qua strings.",
+  "url": "data/20d2cb096d1ab41a4140.bin",
+  "sha256": "7d1036f2755d569b7f1a7942d6c4f1529fef1ae10583dcd2765621e3fdc63f1d",
+  "size": 21277184,
+  "signature": "MEYCIQDXIu48BJWQWotUibXC2JkHOOdNJqs7NFapAzjKXWZfbwIhAJ97dWDzphAR15kdSNsQXQD7Kk20aZc9tTER6lOaoKvC"
 }
