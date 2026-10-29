@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "notes": "Bao mat: ma hoa chuoi endpoint (API_URL license, Hatch) de khong lo qua strings.",
-  "url": "data/20d2cb096d1ab41a4140.bin",
-  "sha256": "7d1036f2755d569b7f1a7942d6c4f1529fef1ae10583dcd2765621e3fdc63f1d",
-  "size": 21277184,
-  "signature": "MEYCIQDXIu48BJWQWotUibXC2JkHOOdNJqs7NFapAzjKXWZfbwIhAJ97dWDzphAR15kdSNsQXQD7Kk20aZc9tTER6lOaoKvC"
+  "version": "1.0.4",
+  "notes": "Noi video bang ffmpeg (thanh tien trinh, chon thu muc luu, khong ghi de); chon Che do Video/Anh; keo-chon nhieu dong; tao anh PNG; nhieu cai tien giao dien; bao mat chuoi.",
+  "url": "data/aea5adbef574785273c4.bin",
+  "sha256": "73cc55783468e013ae4342f84ceaeb38189e96438b4de38d146f3027fff59d7d",
+  "size": 21368320,
+  "signature": "MEQCIBBA8cABHS+a8anNFlgk6rH6zwtpLvFwSdftguxECTb8AiBzFldFn+6GaBqY80yhhT8ZvKEc5QMzklq6w2BSwIZ6Pw=="
 }
