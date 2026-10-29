@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "notes": "Noi video bang ffmpeg (thanh tien trinh, chon thu muc luu, khong ghi de); chon Che do Video/Anh; keo-chon nhieu dong; tao anh PNG; nhieu cai tien giao dien; bao mat chuoi.",
-  "url": "data/aea5adbef574785273c4.bin",
-  "sha256": "73cc55783468e013ae4342f84ceaeb38189e96438b4de38d146f3027fff59d7d",
-  "size": 21368320,
-  "signature": "MEQCIBBA8cABHS+a8anNFlgk6rH6zwtpLvFwSdftguxECTb8AiBzFldFn+6GaBqY80yhhT8ZvKEc5QMzklq6w2BSwIZ6Pw=="
+  "version": "1.0.5",
+  "notes": "Them dang nhap tay cho tai khoan chua co cookie: mo trinh duyet khach tu dang nhap muse.ai, tool tu lay cookie.",
+  "url": "data/9d713f12979d62879250.bin",
+  "sha256": "6a216d15c6781a4251e609e89bf05c93b83306cc65dc2bc41290c8a9c7701754",
+  "size": 21418496,
+  "signature": "MEYCIQDfvdoTHiq2tjdIo4Ha1hrkKOtf5TCHXmfV+U0om+nYfgIhAOXi8lbVjitc44T7M/h+tV6QJG6OyE8aXx9JH8K1dra/"
 }
