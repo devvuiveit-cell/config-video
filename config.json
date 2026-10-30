@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "notes": "Them dang nhap tay cho tai khoan chua co cookie: mo trinh duyet khach tu dang nhap muse.ai, tool tu lay cookie.",
-  "url": "data/9d713f12979d62879250.bin",
-  "sha256": "6a216d15c6781a4251e609e89bf05c93b83306cc65dc2bc41290c8a9c7701754",
-  "size": 21418496,
-  "signature": "MEYCIQDfvdoTHiq2tjdIo4Ha1hrkKOtf5TCHXmfV+U0om+nYfgIhAOXi8lbVjitc44T7M/h+tV6QJG6OyE8aXx9JH8K1dra/"
+  "version": "1.0.6",
+  "notes": "Sua loi noi video bi mat tieng (ffprobe tra field sai thu tu -> khong thay audio); sua nut Mo trinh duyet cho tai khoan dang nhap tay chua co cookie.",
+  "url": "data/e1cb79b8bbad0d392499.bin",
+  "sha256": "18e033f90f2cbe555c41280b7ab9164c1c86672226884fbdee3047386ce4ea5b",
+  "size": 21422592,
+  "signature": "MEUCIQDzaRkCWJjGXA7gJQIA6clz7tzFlY9cLtolarMyyiZxlwIgeYT5d4GI9z4lAUCsUjyWrQA45oL1QK8FjGFwb9gA4n4="
 }
