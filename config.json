@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "notes": "Sua loi noi video bi mat tieng (ffprobe tra field sai thu tu -> khong thay audio); sua nut Mo trinh duyet cho tai khoan dang nhap tay chua co cookie.",
-  "url": "data/e1cb79b8bbad0d392499.bin",
-  "sha256": "18e033f90f2cbe555c41280b7ab9164c1c86672226884fbdee3047386ce4ea5b",
-  "size": 21422592,
-  "signature": "MEUCIQDzaRkCWJjGXA7gJQIA6clz7tzFlY9cLtolarMyyiZxlwIgeYT5d4GI9z4lAUCsUjyWrQA45oL1QK8FjGFwb9gA4n4="
+  "version": "1.0.7",
+  "notes": "Sua loi noi video mat am thanh; nut Mo cho tai khoan dang nhap tay; giao dien tab kieu Chrome cho trang Tao video; phan nhom tai khoan",
+  "url": "data/e9f981f1154c92381d63.bin",
+  "sha256": "a2911d448d400a8356646f34f17a51f88171a0aae84373dc14762ec283bd8264",
+  "size": 21453824,
+  "signature": "MEUCIQDLMLTtNjVQNRWvySJ06sP45MuL8LdIhJ96sjQYgiCMawIgVukOxMEIAlWJnOwSvgGHeN72nHsOU7Ky7orcH8wo0pQ="
 }
