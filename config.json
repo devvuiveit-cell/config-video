@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "notes": "Bat dau chay ngay (tu bat hang doi); gom con 2 nut Bat dau/Dung, bo thuat ngu hang doi; banner bat lai hang doi; tab dang chon tu len dau; nut hang doi ra ngoai; phan nhom tai khoan; sua loi noi video mat am thanh; nut Mo cho tai khoan dang nhap tay",
-  "url": "data/a61552bd969df8ea8acb.bin",
-  "sha256": "55b84fb496ac9daada6ee7dc5c47f27dc68f11ee2fd632e06d6e835b20ccf64c",
-  "size": 21454336,
-  "signature": "MEUCIGyM3H4x4tN5ndIJ0/kszERO55Bj65Xx13shHmmMpHWZAiEAi/srBmV7oaoJpc/gGwajlN0XTlf2QFplkOfMuUL/54Y="
+  "version": "1.0.9",
+  "notes": "Them nut Them tac vu (them hang loat vao kenh); tu gan nhan vat theo ten trong prompt (prompt nhac ten anh nao thi dong do tu gan anh ay); loc cach chia anh theo loai; bo chu media dung tieng Viet (anh/video); chip chen ten + xem truoc moi dong",
+  "url": "data/d6f917c484e6a48fcf8b.bin",
+  "sha256": "530441e70b11908bb67af37b2bc4cb15c2a0b5036e15c134b17f97828a856869",
+  "size": 21498880,
+  "signature": "MEUCIQCAFlNWGYVHjgLIFbC7OnHXihh8vV2Ce/ETi+VeGiP6oQIge8oP9YTFu+C2W1378svSeCy44VFiqZq/kaJ3bxZ9nqs="
 }
