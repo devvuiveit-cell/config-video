@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "notes": "Sua loi noi video mat am thanh; nut Mo cho tai khoan dang nhap tay; giao dien tab kieu Chrome cho trang Tao video; phan nhom tai khoan",
-  "url": "data/e9f981f1154c92381d63.bin",
-  "sha256": "a2911d448d400a8356646f34f17a51f88171a0aae84373dc14762ec283bd8264",
-  "size": 21453824,
-  "signature": "MEUCIQDLMLTtNjVQNRWvySJ06sP45MuL8LdIhJ96sjQYgiCMawIgVukOxMEIAlWJnOwSvgGHeN72nHsOU7Ky7orcH8wo0pQ="
+  "version": "1.0.8",
+  "notes": "Bat dau chay ngay (tu bat hang doi); gom con 2 nut Bat dau/Dung, bo thuat ngu hang doi; banner bat lai hang doi; tab dang chon tu len dau; nut hang doi ra ngoai; phan nhom tai khoan; sua loi noi video mat am thanh; nut Mo cho tai khoan dang nhap tay",
+  "url": "data/a61552bd969df8ea8acb.bin",
+  "sha256": "55b84fb496ac9daada6ee7dc5c47f27dc68f11ee2fd632e06d6e835b20ccf64c",
+  "size": 21454336,
+  "signature": "MEUCIGyM3H4x4tN5ndIJ0/kszERO55Bj65Xx13shHmmMpHWZAiEAi/srBmV7oaoJpc/gGwajlN0XTlf2QFplkOfMuUL/54Y="
 }
