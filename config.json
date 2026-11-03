@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "notes": "Them nut Them tac vu (them hang loat vao kenh); tu gan nhan vat theo ten trong prompt (prompt nhac ten anh nao thi dong do tu gan anh ay); loc cach chia anh theo loai; bo chu media dung tieng Viet (anh/video); chip chen ten + xem truoc moi dong",
-  "url": "data/d6f917c484e6a48fcf8b.bin",
-  "sha256": "530441e70b11908bb67af37b2bc4cb15c2a0b5036e15c134b17f97828a856869",
-  "size": 21498880,
-  "signature": "MEUCIQCAFlNWGYVHjgLIFbC7OnHXihh8vV2Ce/ETi+VeGiP6oQIge8oP9YTFu+C2W1378svSeCy44VFiqZq/kaJ3bxZ9nqs="
+  "version": "1.1.0",
+  "notes": "Them cach phan phoi anh (Lan luot / Dung chung / Xoay vong); Dau->cuoi co rai tuan tu & noi nhau; hop Anh hang loat chon theo Loai cho gon; doi chu 'media' thanh 'anh'.",
+  "url": "data/7fbd210ebec11f65a971.bin",
+  "sha256": "bbbe85f064fb9dfe7c2629bd7095be7faff171460329eb5a636aaa082f9821a4",
+  "size": 21501440,
+  "signature": "MEUCIQDw+PLR8cu3vUQOXnDCt/0Q937tfFK0oMtxvrHHyYqUewIgY9QNnqyfUihnaoku1d9xAbNtAPJyiN/zDB8BTDFQuaM="
 }
