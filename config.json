@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "notes": "Them cach phan phoi anh (Lan luot / Dung chung / Xoay vong); Dau->cuoi co rai tuan tu & noi nhau; hop Anh hang loat chon theo Loai cho gon; doi chu 'media' thanh 'anh'.",
-  "url": "data/7fbd210ebec11f65a971.bin",
-  "sha256": "bbbe85f064fb9dfe7c2629bd7095be7faff171460329eb5a636aaa082f9821a4",
-  "size": 21501440,
-  "signature": "MEUCIQDw+PLR8cu3vUQOXnDCt/0Q937tfFK0oMtxvrHHyYqUewIgY9QNnqyfUihnaoku1d9xAbNtAPJyiN/zDB8BTDFQuaM="
+  "version": "1.1.1",
+  "notes": "Sua loi Chrome treo 'Not Responding' tren may driver GPU cu/may ao (tat GPU, dung ket xuat phan mem); sua duong dan Chrome co tien to \\\\?\\ khi cai vao thu muc co khoang trang; mat khau khong con bat buoc khi them tai khoan dang nhap tay.",
+  "url": "data/c5752c93158aa0bc87f4.bin",
+  "sha256": "2f2786bc7436a475a9aaabd15cf607520ef6e3e51062455d3732a1fe26d85b8b",
+  "size": 21504512,
+  "signature": "MEUCIFgbHV1Y1NkVUmXr4Ul0/IhwFADyzIjvBJ5bT8ufP/NZAiEAzlUDQrgVFvVbNvVedneRUkSPeXm7g0GkA4PrtoIHBMc="
 }
