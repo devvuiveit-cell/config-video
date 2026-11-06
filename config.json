@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3",
-  "notes": "Nut Kiem tai khoan tu kiem 2 luot (cookie dang luu + tu lay lai cookie tu Chrome) nen dang nhap tay xong bam Kiem mot lan la xong. Nut X tren tab gio xoa han tab kem canh bao sao luu du lieu truoc khi xoa. Khi chay het tai khoan dung duoc ma con tai khoan cookie het han, tool tu mo lai Chrome lay cookie moi de chay tiep.",
-  "url": "data/41587ea1713d3bf12da3.bin",
-  "sha256": "b0d4db145b24af772cb94259ae80d9bba3f1dac6fcaee8e5c493bb1d7c51c8d5",
-  "size": 21538816,
-  "signature": "MEUCIQD41mSYmX378OPvvZyfi1dFPw+wfnwtsEDJDyLiXg40/gIgBhQo2mEkWmU0CahzEUL7WE9kuyizfAIJGUvzyFSBRrs="
+  "version": "1.1.4",
+  "notes": "Khop thoai chuan (het cat 1-2s cuoi); tiep tuc cho do; bo gioi han prompt + bo tach prompt; cot Nhom + ro UI tai khoan; tu thu lai loi mang.",
+  "url": "data/b389fd695d0f1725d524.bin",
+  "sha256": "f6f976cc2bdf2a01098d400dc5079022a64958a8ee823f4b8e9a1e58c37dbede",
+  "size": 22548480,
+  "signature": "MEQCIAzz04opr7KdSevh59vj6WrGAC4dEFpxsRlV0pSrTXJUAiA6RhklfVDa3T+b4yUWRVllAiFW8nlX85+0ir41g+2nlA=="
 }
