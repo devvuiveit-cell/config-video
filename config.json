@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "notes": "Khop thoai chuan (het cat 1-2s cuoi); tiep tuc cho do; bo gioi han prompt + bo tach prompt; cot Nhom + ro UI tai khoan; tu thu lai loi mang.",
-  "url": "data/b389fd695d0f1725d524.bin",
-  "sha256": "f6f976cc2bdf2a01098d400dc5079022a64958a8ee823f4b8e9a1e58c37dbede",
-  "size": 22548480,
-  "signature": "MEQCIAzz04opr7KdSevh59vj6WrGAC4dEFpxsRlV0pSrTXJUAiA6RhklfVDa3T+b4yUWRVllAiFW8nlX85+0ir41g+2nlA=="
+  "version": "1.1.5",
+  "notes": "Them nut xoa tab nhanh ngay trong menu tab an bot; nut Tao tab noi bat de thay; bao khi thieu ffmpeg/yt-dlp de duoc huong dan tai; sua vai loi nho giao dien.",
+  "url": "data/2306deab5abc025bcdea.bin",
+  "sha256": "3e48d6eb586aa7fb113b9735d2adf135a44c96a74c9101a9dea11aaaa59b7d9b",
+  "size": 22519808,
+  "signature": "MEYCIQDvRus5ziZAnbRpK1KF+EZuIjDkhCq1zFwUCHLBQRjPxQIhALDE5KsGDbRZz0/CQXRaUmU+ZORv2jUDRi/H9Sr4QKeu"
 }
