@@ -1,8 +1,8 @@
 {
-  "version": "1.1.7",
-  "notes": "Sua loi proxy co ky tu dac biet trong mat khau (vd dau # hoac :) bi bao sai dinh dang, nay dung duoc moi noi. Them bo loc trang thai dong trong Tao video (loc nhanh dong Loi / Da xong), gon thanh combobox.",
-  "url": "data/a15c279bee3a547db747.bin",
-  "sha256": "2cf87de91f1ee783ca6a99dcd371aa8cc83ac730c92f2c8b8f388419cdb9c961",
-  "size": 22669312,
-  "signature": "MEQCIH5ZQa44nims81oAn2OQZQtrWtVUZ/vaeGICtOx2v+pjAiBxnSnb7iGQPKgAjC6xAuu7oRKx9wkWkuH7sbGNFglX9w=="
+  "version": "1.1.8",
+  "notes": "Hang doi tong da tai khoan; bat dau nhieu tab + giu phien; trich phong cach tu anh/video; kho mau tach tieu de/noi dung; thu muc theo ten du an.",
+  "url": "data/9939ef896c5fbb7d9376.bin",
+  "sha256": "c465ede6bd898f2cac85effa34fb7a22fd640be8df51b2d09b4aa091281b2d9c",
+  "size": 23223808,
+  "signature": "MEUCICWvptz1j/UQ5PQJWL8aNrftUtsWPCW/N0HVZ8wIjChsAiEA1ERA0btnIibPZVS9wR5rst5jzKTjiBaJ6Ui61IeVL90="
 }
