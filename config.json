@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
-  "notes": "Them nut xoa tab nhanh ngay trong menu tab an bot; nut Tao tab noi bat de thay; bao khi thieu ffmpeg/yt-dlp de duoc huong dan tai; sua vai loi nho giao dien.",
-  "url": "data/2306deab5abc025bcdea.bin",
-  "sha256": "3e48d6eb586aa7fb113b9735d2adf135a44c96a74c9101a9dea11aaaa59b7d9b",
-  "size": 22519808,
-  "signature": "MEYCIQDvRus5ziZAnbRpK1KF+EZuIjDkhCq1zFwUCHLBQRjPxQIhALDE5KsGDbRZz0/CQXRaUmU+ZORv2jUDRi/H9Sr4QKeu"
+  "version": "1.1.6",
+  "notes": "Giu dang nhap on dinh hon. Sua loi mo trinh duyet bi nhieu tab va xoa tai khoan chua don sach profile. Them: bam vao dong de xem chi tiet + chep nhanh du lieu, bat/tat tai khoan cho hang doi, cot trinh duyet, nut giai phong tai khoan ket, tu lay lai cookie khi het phien luc dang chay.",
+  "url": "data/04d8966c7aad626e657e.bin",
+  "sha256": "e1654d5a5bf6992b63adec5d96ff2bb61f5354d2c13c12a5837ba30ee75e68e2",
+  "size": 22667264,
+  "signature": "MEQCIFUWftwBFsJ2yglbtZ3GAAGelFMN7bZZqRvKDpyJyBexAiApRDjRkfc5p3i/rUe2js3YsgJAidchZMbEroheMTegDw=="
 }
