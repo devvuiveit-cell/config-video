@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
-  "notes": "Giu dang nhap on dinh hon. Sua loi mo trinh duyet bi nhieu tab va xoa tai khoan chua don sach profile. Them: bam vao dong de xem chi tiet + chep nhanh du lieu, bat/tat tai khoan cho hang doi, cot trinh duyet, nut giai phong tai khoan ket, tu lay lai cookie khi het phien luc dang chay.",
-  "url": "data/04d8966c7aad626e657e.bin",
-  "sha256": "e1654d5a5bf6992b63adec5d96ff2bb61f5354d2c13c12a5837ba30ee75e68e2",
-  "size": 22667264,
-  "signature": "MEQCIFUWftwBFsJ2yglbtZ3GAAGelFMN7bZZqRvKDpyJyBexAiApRDjRkfc5p3i/rUe2js3YsgJAidchZMbEroheMTegDw=="
+  "version": "1.1.7",
+  "notes": "Sua loi proxy co ky tu dac biet trong mat khau (vd dau # hoac :) bi bao sai dinh dang, nay dung duoc moi noi. Them bo loc trang thai dong trong Tao video (loc nhanh dong Loi / Da xong), gon thanh combobox.",
+  "url": "data/a15c279bee3a547db747.bin",
+  "sha256": "2cf87de91f1ee783ca6a99dcd371aa8cc83ac730c92f2c8b8f388419cdb9c961",
+  "size": 22669312,
+  "signature": "MEQCIH5ZQa44nims81oAn2OQZQtrWtVUZ/vaeGICtOx2v+pjAiBxnSnb7iGQPKgAjC6xAuu7oRKx9wkWkuH7sbGNFglX9w=="
 }
