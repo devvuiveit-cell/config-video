@@ -1,8 +1,8 @@
 {
-  "version": "1.1.10",
-  "notes": "Kiem tra & dang nhap tai khoan chuan voi Muse moi; cot S. dung bat/tat; phu de doi phong cach/nhan vat nhan ngay; nhan ban dong hoi so luong.",
-  "url": "data/7f0a2e16d3ba08ba4bdb.bin",
-  "sha256": "9e492f6cd9e7073eefa8fa9c540d65b2ff9d811823381af0b34b3b77eb04d7e9",
-  "size": 23279616,
-  "signature": "MEUCIQC7POj+t5TB6vtfemdb5oadoFE3M9gou/ifcmjOGRlc7QIgO7cHjKANNhzKbHXYLEYiIF5666hUNflbXdGSLhC4oOE="
+  "version": "1.1.11",
+  "notes": "Video phu de bam sat noi dung hon; tach phu de nhanh hon va tu nhan ngon ngu; them tien ich tai khoan; sua nhieu loi, on dinh hon.",
+  "url": "data/aeedec9418849ebb1faa.bin",
+  "sha256": "770cffc8060a5f3930c1b526980b966015d52116a327529f1ac40d701faf18e8",
+  "size": 23651840,
+  "signature": "MEYCIQCmUqDdsqWY+zTeFEMxrERpNB1yUGv/FD0c8W/Fr9YTOQIhAMGlXwsQfEbE162LSp64LGQgPKVtd2uzaSgxXRLo5JU9"
 }
