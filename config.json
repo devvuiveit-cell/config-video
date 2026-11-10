@@ -1,8 +1,8 @@
 {
-  "version": "1.1.9",
-  "notes": "Tu nghi tai khoan khi bi khoa 24h; nut Chay lai da chon; vung chon anh bam ca khung; video dai du thoi luong",
-  "url": "data/48456eb771dfaa1b1fd6.bin",
-  "sha256": "8d2f6a0c20b9cc827d20b7ff79e56ab8fe5ccdefe127adff5c58700a733c2e0a",
-  "size": 23231488,
-  "signature": "MEQCIEd0AFjH7b4dUe9+5x1Yq8f5/M5Nds8cEHCzGzTZifVsAiAx4wdH81+BbxiEbySdsiI2wgm7HueH4QuVhn437VTVCQ=="
+  "version": "1.1.10",
+  "notes": "Kiem tra & dang nhap tai khoan chuan voi Muse moi; cot S. dung bat/tat; phu de doi phong cach/nhan vat nhan ngay; nhan ban dong hoi so luong.",
+  "url": "data/7f0a2e16d3ba08ba4bdb.bin",
+  "sha256": "9e492f6cd9e7073eefa8fa9c540d65b2ff9d811823381af0b34b3b77eb04d7e9",
+  "size": 23279616,
+  "signature": "MEUCIQC7POj+t5TB6vtfemdb5oadoFE3M9gou/ifcmjOGRlc7QIgO7cHjKANNhzKbHXYLEYiIF5666hUNflbXdGSLhC4oOE="
 }
