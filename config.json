@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
-  "notes": "Hang doi tong da tai khoan; bat dau nhieu tab + giu phien; trich phong cach tu anh/video; kho mau tach tieu de/noi dung; thu muc theo ten du an.",
-  "url": "data/9939ef896c5fbb7d9376.bin",
-  "sha256": "c465ede6bd898f2cac85effa34fb7a22fd640be8df51b2d09b4aa091281b2d9c",
-  "size": 23223808,
-  "signature": "MEUCICWvptz1j/UQ5PQJWL8aNrftUtsWPCW/N0HVZ8wIjChsAiEA1ERA0btnIibPZVS9wR5rst5jzKTjiBaJ6Ui61IeVL90="
+  "version": "1.1.9",
+  "notes": "Tu nghi tai khoan khi bi khoa 24h; nut Chay lai da chon; vung chon anh bam ca khung; video dai du thoi luong",
+  "url": "data/48456eb771dfaa1b1fd6.bin",
+  "sha256": "8d2f6a0c20b9cc827d20b7ff79e56ab8fe5ccdefe127adff5c58700a733c2e0a",
+  "size": 23231488,
+  "signature": "MEQCIEd0AFjH7b4dUe9+5x1Yq8f5/M5Nds8cEHCzGzTZifVsAiAx4wdH81+BbxiEbySdsiI2wgm7HueH4QuVhn437VTVCQ=="
 }
