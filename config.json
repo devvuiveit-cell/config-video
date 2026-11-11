@@ -1,8 +1,8 @@
 {
-  "version": "1.1.12",
-  "notes": "Them tuy chon Dinh phu de (mac dinh tat): tat thi video ra sach, khong co chu.",
-  "url": "data/48a8906f7d4fb960897b.bin",
-  "sha256": "806587eb04dcbb15eb38c24d3a6c76a8828bbf72cd5d2dc49ad21245f491963d",
-  "size": 23610368,
-  "signature": "MEUCIQCRoLKadkYkdkaNfxSXHLxp0FesFGOvttMG+YgPI5ykEAIgVaQnC2YOnwAWImz6Zyt3NVNKiv2uSnlynS+jPIKvZ88="
+  "version": "1.1.13",
+  "notes": "Them Tro ly AI: dieu khien tool bang Claude/Cursor va chat truc tiep. Tai khoan: menu Sao chep + Copy tuy chinh. Gon muc Am thanh, doi ten mau cai dat, tach tab Tro ly AI/API. Va loi tai video tu link; tu nghi tai khoan khi gioi han ngay.",
+  "url": "data/d0c30f7ce798f5497d53.bin",
+  "sha256": "d6954b8c7bbd37a2cf34adbcc80acb9f974121181c41a94827254b431b39ff1c",
+  "size": 24285184,
+  "signature": "MEQCIB01LAceURQ6gzGW+3Y08CCQ/C8dCR0aZV8qbhJmVvk+AiBDKE65rWPALjOXhNhyUGqFsWa+gFd6+T/h0lrqKFqaqA=="
 }
