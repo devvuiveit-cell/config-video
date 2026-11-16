@@ -1,8 +1,8 @@
 {
-  "version": "1.1.14",
-  "notes": "Them tab Phong ban AI: xem truc quan 3D doi tai khoan Muse dang lam viec, co bang tien do tren dau nhan vien. On dinh hon: tu phuc hoi khi trinh duyet tai khoan bi mat cua so giua chung.",
-  "url": "data/6f8dccfdac060ff177af.bin",
-  "sha256": "4d6fcca550cd959de39e3b301019f3dd991bf4fe92dfde0f96bb88c5f115413d",
-  "size": 24457216,
-  "signature": "MEUCIF5xBjDV+ziHPYO+DSYP3CqnT/HdWXvgZ2NmuQUWHnyEAiEA6SbZTy0SpDPMgwFX55JmyQJ4kXJyj8AeyDJH9qlHtTQ="
+  "version": "1.1.15",
+  "notes": "Fix: scene length now really splits long subtitles into N-second scenes (no more one 20-30s scene). Fix: 1-scene projects export video with merged audio. Fix: Publish (MP4 / CapCut) works right after Start. Improve: backgrounds get their own location reference for consistent scenes.",
+  "url": "data/79513eec307e53c0914a.bin",
+  "sha256": "baefb27838bd36ef8a85244daddc2375f1fd3a38892b8838dd27dd738cc489bf",
+  "size": 24626176,
+  "signature": "MEYCIQCAw6krpqc8SPoYmjrIB/ESlruo23PZS0czO7FTWMVOAQIhAJAtjrsAl0q9YtBa2NMlqVNTh/MDGQAY9Axs4PFTExPC"
 }
