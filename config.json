@@ -1,8 +1,8 @@
 {
-  "version": "1.1.15",
-  "notes": "Fix: scene length now really splits long subtitles into N-second scenes (no more one 20-30s scene). Fix: 1-scene projects export video with merged audio. Fix: Publish (MP4 / CapCut) works right after Start. Improve: backgrounds get their own location reference for consistent scenes.",
-  "url": "data/79513eec307e53c0914a.bin",
-  "sha256": "baefb27838bd36ef8a85244daddc2375f1fd3a38892b8838dd27dd738cc489bf",
-  "size": 24626176,
-  "signature": "MEYCIQCAw6krpqc8SPoYmjrIB/ESlruo23PZS0czO7FTWMVOAQIhAJAtjrsAl0q9YtBa2NMlqVNTh/MDGQAY9Axs4PFTExPC"
+  "version": "1.1.16",
+  "notes": "Trợ lý AI (Claude/Cursor) kết nối ổn định hơn.",
+  "url": "data/de475b94823bacd6770a.bin",
+  "sha256": "5c662e363b875c2fc7adc1c0846907e78c2b9a516fe4b2768e7d8aac61c3aa52",
+  "size": 25350656,
+  "signature": "MEYCIQCpmEFlEsyyqkWFENxC+JhUerVji2lMJZgqxvktkq9QdAIhAK3jmW9TXS4wczAUGaAjETS0xwI23q67zaPXmo2lMp0w"
 }
