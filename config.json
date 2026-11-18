@@ -1,8 +1,8 @@
 {
-  "version": "1.1.18",
-  "notes": "Them Video Aff (thu nghiem); tai khoan loai Ca hai dung chung app va API; API tao duoc anh va nang toi da 20 luong; Phu de sang Video anh phan canh hien dan khi chay.",
-  "url": "data/f96c4ed2876ba2784bc5.bin",
-  "sha256": "845bf31eeea3e94e5c4f90f9e610b49c966fae9ee4053898f48bea419050efc0",
-  "size": 25516032,
-  "signature": "MEQCIG2LlF0sG8nBBqG/vZJqWp3UHP9Pu5SCiAalDGLFl7nNAiB2mp4L3HUoeOsPXb0bcE6cbldO9c0Sf4w+sGFX5aF9Ug=="
+  "version": "1.1.19",
+  "notes": "Video Aff nang cap: giu dong nhat nguoi theo canh + 5 mau dung (chi san pham/1 nguoi/2 nguoi/mo hop/KOL), giao dien 4 the, nut Tao video len dau, chon thu muc xuat, dat lai thong so. Sua loi Mo thu muc (This PC). Bo cai cho may moi gon hon: cong cu nen gom vao thu muc bin, may cu van chay binh thuong.",
+  "url": "data/729e68b1aa07e029fbdd.bin",
+  "sha256": "ee8928abb9ce937865569b9a751a31553e5a941bf1030723815867c60154d3b0",
+  "size": 25503232,
+  "signature": "MEUCIDFQCDsi75bB7Uiq6d5bTaKB9evks9S+7+r3mTsWxkFGAiEAny4RBPClgvyr22Bt+2qM8bVKLTSu9vGruAM8gUNFaII="
 }
