@@ -1,8 +1,8 @@
 {
-  "version": "1.1.16",
-  "notes": "Trợ lý AI (Claude/Cursor) kết nối ổn định hơn.",
-  "url": "data/de475b94823bacd6770a.bin",
-  "sha256": "5c662e363b875c2fc7adc1c0846907e78c2b9a516fe4b2768e7d8aac61c3aa52",
-  "size": 25350656,
-  "signature": "MEYCIQCpmEFlEsyyqkWFENxC+JhUerVji2lMJZgqxvktkq9QdAIhAK3jmW9TXS4wczAUGaAjETS0xwI23q67zaPXmo2lMp0w"
+  "version": "1.1.17",
+  "notes": "Cảnh không có ảnh tham chiếu vẫn tạo video bình thường.",
+  "url": "data/1a476451717f42842019.bin",
+  "sha256": "00d2559ab6c921f6dffb02f6cd0f948704e17d0709e9a1cb781317534ec61d8a",
+  "size": 25349632,
+  "signature": "MEQCIC+nxP9aC7sYAR6kQPa8N29eTTiD7596T3ToFsS/xEM8AiBCBRqExxYOujpI7c5R4psePvdGAnF1kwD4wwYD2XnaBg=="
 }
