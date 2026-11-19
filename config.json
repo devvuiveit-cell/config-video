@@ -1,8 +1,8 @@
 {
-  "version": "1.1.23",
-  "notes": "Sua loi Tro ly AI (MCP) khong ket noi / treo tren may co diet virus. Cap nhat xong mo lai phien Claude (/mcp).",
-  "url": "data/dcba653ec7aa73693e7e.bin",
-  "sha256": "237d07a31864f11f26048d12140550c75100808156fa160a1f5340d7dc871a26",
-  "size": 25504256,
-  "signature": "MEYCIQDVv27k6jMlr62q53vX/NyAVhQTQcY07yTAUgINbKIswQIhALGRea/zIk9NZrk8pneNlPY/Fs4GzU/EvIWj81CNPA4q"
+  "version": "1.1.24",
+  "notes": "Sua loi MCP: agent noi duoc nhung khong thay cong cu / treo (bridge da luong). App tu thay bridge moi, mo lai phien Claude (/mcp).",
+  "url": "data/7cc68b07aae66486945b.bin",
+  "sha256": "5e477315754dbf843b17bd2c257198fbceeecb91f40eecac530b332f3fd8b998",
+  "size": 25603584,
+  "signature": "MEUCIQCmWa6P1yS+dzMsEEc5YQjlpkfIOecZL205InXb9rTskAIgKibFrlNkNrzyC0qVZDjaHEWyXSB4pBD9VDnfPho3HA4="
 }
