@@ -1,8 +1,8 @@
 {
-  "version": "1.1.24",
-  "notes": "Sua loi MCP: agent noi duoc nhung khong thay cong cu / treo (bridge da luong). App tu thay bridge moi, mo lai phien Claude (/mcp).",
-  "url": "data/7cc68b07aae66486945b.bin",
-  "sha256": "5e477315754dbf843b17bd2c257198fbceeecb91f40eecac530b332f3fd8b998",
-  "size": 25603584,
-  "signature": "MEUCIQCmWa6P1yS+dzMsEEc5YQjlpkfIOecZL205InXb9rTskAIgKibFrlNkNrzyC0qVZDjaHEWyXSB4pBD9VDnfPho3HA4="
+  "version": "1.1.25",
+  "notes": "Sua DUT DIEM loi MCP: agent noi duoc nhung khong goi duoc tool / timeout (tu-deadlock doi khoa trong bridge). Mo lai phien Claude (/mcp).",
+  "url": "data/317b5c3073c3926f4306.bin",
+  "sha256": "88a2ca155da965b25ae21eeb9698a7a5cfa8a43ca49bd861efbaee4a0fcdbf9c",
+  "size": 25648128,
+  "signature": "MEYCIQDnrtFYDTIG/6nmpLSIed49eXl0N0K/XehTjdaQH7gMogIhAOBCdq2DWJ44jnaUVzjOoG1cvA8w3i4O1x29jmnonr5H"
 }
