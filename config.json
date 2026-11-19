@@ -1,8 +1,8 @@
 {
-  "version": "1.1.19",
-  "notes": "Video Aff nang cap: giu dong nhat nguoi theo canh + 5 mau dung (chi san pham/1 nguoi/2 nguoi/mo hop/KOL), giao dien 4 the, nut Tao video len dau, chon thu muc xuat, dat lai thong so. Sua loi Mo thu muc (This PC). Bo cai cho may moi gon hon: cong cu nen gom vao thu muc bin, may cu van chay binh thuong.",
-  "url": "data/729e68b1aa07e029fbdd.bin",
-  "sha256": "ee8928abb9ce937865569b9a751a31553e5a941bf1030723815867c60154d3b0",
-  "size": 25503232,
-  "signature": "MEUCIDFQCDsi75bB7Uiq6d5bTaKB9evks9S+7+r3mTsWxkFGAiEAny4RBPClgvyr22Bt+2qM8bVKLTSu9vGruAM8gUNFaII="
+  "version": "1.1.20",
+  "notes": "Sua loi ket noi Tro ly AI (MCP) tren ban cai san. Cap nhat xong mo lai phien Claude Code (/mcp).",
+  "url": "data/74b59856d184f3cd9fe7.bin",
+  "sha256": "47498822964d5de9960edaa1966228b29e66c72e77d8d1f99c1636201cb56e09",
+  "size": 25544192,
+  "signature": "MEUCIAOxGrjxRYTM3l9vKyZqFDL7rJsePBjTyGbHLhsMvvNOAiEA4gTqgAODKPcnKPm2nrSzzFc76gHDUbbn8PYSoDoOEU0="
 }
