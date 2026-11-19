@@ -1,8 +1,8 @@
 {
-  "version": "1.1.25",
-  "notes": "Sua DUT DIEM loi MCP: agent noi duoc nhung khong goi duoc tool / timeout (tu-deadlock doi khoa trong bridge). Mo lai phien Claude (/mcp).",
-  "url": "data/317b5c3073c3926f4306.bin",
-  "sha256": "88a2ca155da965b25ae21eeb9698a7a5cfa8a43ca49bd861efbaee4a0fcdbf9c",
-  "size": 25648128,
-  "signature": "MEYCIQDnrtFYDTIG/6nmpLSIed49eXl0N0K/XehTjdaQH7gMogIhAOBCdq2DWJ44jnaUVzjOoG1cvA8w3i4O1x29jmnonr5H"
+  "version": "1.1.26",
+  "notes": "Het giat/do che do The khi nhieu canh; Cookie het han tu dang nhap lai lay cookie moi (ca SRT lan tab Tai khoan); Tro ly AI tich hop nhan dien Claude tot hon.",
+  "url": "data/a9d38d8d0aca1b6e8704.bin",
+  "sha256": "ec6ce3b4018e8d05c2a1b292248c50c5866c64d7aadcfd1929bafd5982cbd703",
+  "size": 25714688,
+  "signature": "MEUCIC5TWR7Qnzp8lzKf6cV8gMV5PmLbIGpXj9hll/vgs40IAiEA3ztMpJmBiLXOPmtvvI607/8ishcyIeaxNCJwgBCrHNw="
 }
