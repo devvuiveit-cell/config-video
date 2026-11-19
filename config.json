@@ -1,8 +1,8 @@
 {
-  "version": "1.1.20",
-  "notes": "Sua loi ket noi Tro ly AI (MCP) tren ban cai san. Cap nhat xong mo lai phien Claude Code (/mcp).",
-  "url": "data/74b59856d184f3cd9fe7.bin",
-  "sha256": "47498822964d5de9960edaa1966228b29e66c72e77d8d1f99c1636201cb56e09",
-  "size": 25544192,
-  "signature": "MEUCIAOxGrjxRYTM3l9vKyZqFDL7rJsePBjTyGbHLhsMvvNOAiEA4gTqgAODKPcnKPm2nrSzzFc76gHDUbbn8PYSoDoOEU0="
+  "version": "1.1.21",
+  "notes": "Sua loi tach phu de (whisper) tren may co GPU NVIDIA: tu dong chay CPU khi GPU loi.",
+  "url": "data/43d6d5438279277ddd8a.bin",
+  "sha256": "beb4eb6fdf92b8287fcccbe5f8621bbad5f6a5ae6c208c8562804e067dec9526",
+  "size": 25500672,
+  "signature": "MEYCIQDSCqK8Nndvnfhp82gwxt4a8OGF2iz4XC2/ouHn0EtvnQIhANeRKSnsWSBkMtkX763suXx4XqH821C5pY39amwHeIia"
 }
