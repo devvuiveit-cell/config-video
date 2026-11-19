@@ -1,8 +1,8 @@
 {
-  "version": "1.1.22",
-  "notes": "Sua tach phu de o thu muc co dau tieng Viet; an cua so CMD den; tu lui CPU khi GPU loi.",
-  "url": "data/e6c2731b284a01080792.bin",
-  "sha256": "317226a674f8586a01360845da0bef722044c8d8313ad0e8a0220d8ea3b4c742",
-  "size": 25501184,
-  "signature": "MEUCIQDMt67MO/j3J6HstfiHYNvDiSEW9kefg/lvoU7IBPb8ygIgMdNZDtEQ5T7AgE2Jqe+YmQEUjh2hXB+5xT4bFJ1uD+Q="
+  "version": "1.1.23",
+  "notes": "Sua loi Tro ly AI (MCP) khong ket noi / treo tren may co diet virus. Cap nhat xong mo lai phien Claude (/mcp).",
+  "url": "data/dcba653ec7aa73693e7e.bin",
+  "sha256": "237d07a31864f11f26048d12140550c75100808156fa160a1f5340d7dc871a26",
+  "size": 25504256,
+  "signature": "MEYCIQDVv27k6jMlr62q53vX/NyAVhQTQcY07yTAUgINbKIswQIhALGRea/zIk9NZrk8pneNlPY/Fs4GzU/EvIWj81CNPA4q"
 }
