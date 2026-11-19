@@ -1,8 +1,8 @@
 {
-  "version": "1.1.21",
-  "notes": "Sua loi tach phu de (whisper) tren may co GPU NVIDIA: tu dong chay CPU khi GPU loi.",
-  "url": "data/43d6d5438279277ddd8a.bin",
-  "sha256": "beb4eb6fdf92b8287fcccbe5f8621bbad5f6a5ae6c208c8562804e067dec9526",
-  "size": 25500672,
-  "signature": "MEYCIQDSCqK8Nndvnfhp82gwxt4a8OGF2iz4XC2/ouHn0EtvnQIhANeRKSnsWSBkMtkX763suXx4XqH821C5pY39amwHeIia"
+  "version": "1.1.22",
+  "notes": "Sua tach phu de o thu muc co dau tieng Viet; an cua so CMD den; tu lui CPU khi GPU loi.",
+  "url": "data/e6c2731b284a01080792.bin",
+  "sha256": "317226a674f8586a01360845da0bef722044c8d8313ad0e8a0220d8ea3b4c742",
+  "size": 25501184,
+  "signature": "MEUCIQDMt67MO/j3J6HstfiHYNvDiSEW9kefg/lvoU7IBPb8ygIgMdNZDtEQ5T7AgE2Jqe+YmQEUjh2hXB+5xT4bFJ1uD+Q="
 }
