@@ -1,8 +1,8 @@
 {
-  "version": "1.1.27",
-  "notes": "Tu dong don dau vet (metadata/EXIF/GPS/C2PA) cho moi anh va video Muse tai ve, khong giam chat luong.",
-  "url": "data/dd2037a0b3e1fafa7fbc.bin",
-  "sha256": "96092c3e3eab043e6803750ffd1ae81a791464eb836880b4e6ba33a741f4fb7a",
-  "size": 25833472,
-  "signature": "MEUCIHNiZzz2ZauRuHXD7PtzCzg+rXt+S5Ra/SIvIa3kk9FoAiEAgAiQRwt6RGKbas/DhXqfxSnKYtilGhxh4rGHmv8nwL0="
+  "version": "1.1.28",
+  "notes": "O Style co dinh viet dai hon (toi 2000 ky tu, o nhieu dong) va them duoc Style co dinh trong hop them prompt hang loat.",
+  "url": "data/2992d0616723eb24c05c.bin",
+  "sha256": "a9fe5f77f9ee3a9144e9987ba9d4b8afaed3633fca201d1f2a60f34b29f50708",
+  "size": 25838592,
+  "signature": "MEUCID/S/K7Np1bavm9XKGNRX0Heb45fbJ4aePNCxnvLa8xgAiEApIxj3ZzIpT7gJ574SJd9MECpb5YG8U4atPe82umld6s="
 }
