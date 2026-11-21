@@ -1,8 +1,8 @@
 {
-  "version": "1.1.28",
-  "notes": "O Style co dinh viet dai hon (toi 2000 ky tu, o nhieu dong) va them duoc Style co dinh trong hop them prompt hang loat.",
-  "url": "data/2992d0616723eb24c05c.bin",
-  "sha256": "a9fe5f77f9ee3a9144e9987ba9d4b8afaed3633fca201d1f2a60f34b29f50708",
-  "size": 25838592,
-  "signature": "MEUCID/S/K7Np1bavm9XKGNRX0Heb45fbJ4aePNCxnvLa8xgAiEApIxj3ZzIpT7gJ574SJd9MECpb5YG8U4atPe82umld6s="
+  "version": "1.1.29",
+  "notes": "Sửa lỗi nối video báo không tìm thấy ffmpeg trên một số máy.",
+  "url": "data/c19cfd0ad0f760364dc9.bin",
+  "sha256": "5b26f30dd758459cc46a583093075d733d1497e7bbcb445a3afbced2fb6fa26f",
+  "size": 25840640,
+  "signature": "MEUCIA+fajDCV1jIOipbyPrJ2ZDh4+PvAuiLLlvwipTiFdT4AiEAyZmgOZDhrq75oF8uGxsn6CYGc/DD9w/6ZoYCzSAB6RI="
 }
