@@ -1,8 +1,8 @@
 {
-  "version": "1.1.29",
-  "notes": "Sửa lỗi nối video báo không tìm thấy ffmpeg trên một số máy.",
-  "url": "data/c19cfd0ad0f760364dc9.bin",
-  "sha256": "5b26f30dd758459cc46a583093075d733d1497e7bbcb445a3afbced2fb6fa26f",
-  "size": 25840640,
-  "signature": "MEUCIA+fajDCV1jIOipbyPrJ2ZDh4+PvAuiLLlvwipTiFdT4AiEAyZmgOZDhrq75oF8uGxsn6CYGc/DD9w/6ZoYCzSAB6RI="
+  "version": "1.1.30",
+  "notes": "Nut thao tac tai khoan bao dang chay va chan bam trung (tai lai cookie, kiem tra, dang nhap).",
+  "url": "data/1db0c5b9f2e49d736e76.bin",
+  "sha256": "a6edc8017a8ef3b134d263be70b62da6618a3099879263b6f3fb9af745b2b05d",
+  "size": 25838080,
+  "signature": "MEYCIQCVylGZPVHZrTy34u/7nVqL+eXEbTA1xSlkoWl0xRI4YgIhAMcI024frrRbqBMjkbeJD8kTKonluGH3jeXOFgsZBWrp"
 }
