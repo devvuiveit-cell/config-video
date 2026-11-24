@@ -1,8 +1,8 @@
 {
-  "version": "1.1.30",
-  "notes": "Nut thao tac tai khoan bao dang chay va chan bam trung (tai lai cookie, kiem tra, dang nhap).",
-  "url": "data/1db0c5b9f2e49d736e76.bin",
-  "sha256": "a6edc8017a8ef3b134d263be70b62da6618a3099879263b6f3fb9af745b2b05d",
-  "size": 25838080,
-  "signature": "MEYCIQCVylGZPVHZrTy34u/7nVqL+eXEbTA1xSlkoWl0xRI4YgIhAMcI024frrRbqBMjkbeJD8kTKonluGH3jeXOFgsZBWrp"
+  "version": "1.1.31",
+  "notes": "Chay nhanh lai + lay dung video Muse da tao du khong co the trinh bay; loi 502 giua chung khong con lam hong canh co video.",
+  "url": "data/a9be891cc79bb81fcd83.bin",
+  "sha256": "13b17819c41e3048a3ec806f1203ecc55286304a3f85131dd237ab32a1ba739e",
+  "size": 25842688,
+  "signature": "MEUCIQCTeLFr58L1iaaWhwbgiMt0ZyTgDfzOphIgdk96rgop2wIgTd1gQQfZZwfcn5PVLwvFl1GojypCpL9E3n+jVjnWhfU="
 }
