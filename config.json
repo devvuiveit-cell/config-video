@@ -1,8 +1,8 @@
 {
-  "version": "1.1.33",
-  "notes": "Tab Video Aff khong con ket khi viet kich ban + Dung cat duoc; tab Kich ban: viet kich ban & tao anh bang ChatGPT; mo trinh duyet tai khoan on dinh hon.",
-  "url": "data/b68cdeb8db827b3d53fe.bin",
-  "sha256": "610c3f6585a9aeb99d6bbb7c567110f69daf0a1d58e695a03c381d86d0134e73",
-  "size": 26032128,
-  "signature": "MEQCIGYxa4eouQ2P6QU+ivgLhkKo+DiulXXg5kyvGyRTiiv5AiBja47lQB/Rc6wxWu9XKe3cB01i1mKB7t6Gwyz2W3C3fQ=="
+  "version": "1.1.34",
+  "notes": "Sua dang nhap lai tu dong cho tai khoan het han; tai khoan khong con ket 'dang dung' (them nut Giai phong/Dong trinh duyet); sua 3 nut cua so; giao dien gon hon.",
+  "url": "data/f7c3a8c5d37a86d18c8f.bin",
+  "sha256": "36c818e445743db712ab8d32cb1c504d5287018d2c287604d3439cc84762dcd2",
+  "size": 26078208,
+  "signature": "MEUCIG6vLa4+R2wW3FIDfKy48/AE8Gm9Qki6Xk4Fu6x1R1fpAiEA/Vl4JlFAiXeEm1DI8saMQvQ5eOn4pCT337g7d1iNCsU="
 }
