@@ -1,8 +1,8 @@
 {
-  "version": "1.1.32",
-  "notes": "Tai khoan tu ket noi lai sau khi Muse doi giao dien; loi 502 khi tao anh/video tu thu lai va khong tao trung (API, tab Tao video/anh, SRT, Affiliate).",
-  "url": "data/caa3c78709cfc0887b28.bin",
-  "sha256": "b0d23f9e0986e239dadec71bd075123db485c1d2b840c34058907768248fd80f",
-  "size": 25886208,
-  "signature": "MEQCIGJ1YsmGjPsbvmwEmpDnlCeOTIbB+CEeCa30QbKC3WvRAiBYwr6VA0BrHq1uPO7tjQqYGVIEZhjqXoaXoo02A/2C9g=="
+  "version": "1.1.33",
+  "notes": "Tab Video Aff khong con ket khi viet kich ban + Dung cat duoc; tab Kich ban: viet kich ban & tao anh bang ChatGPT; mo trinh duyet tai khoan on dinh hon.",
+  "url": "data/b68cdeb8db827b3d53fe.bin",
+  "sha256": "610c3f6585a9aeb99d6bbb7c567110f69daf0a1d58e695a03c381d86d0134e73",
+  "size": 26032128,
+  "signature": "MEQCIGYxa4eouQ2P6QU+ivgLhkKo+DiulXXg5kyvGyRTiiv5AiBja47lQB/Rc6wxWu9XKe3cB01i1mKB7t6Gwyz2W3C3fQ=="
 }
