@@ -1,8 +1,8 @@
 {
-  "version": "1.1.31",
-  "notes": "Chay nhanh lai + lay dung video Muse da tao du khong co the trinh bay; loi 502 giua chung khong con lam hong canh co video.",
-  "url": "data/a9be891cc79bb81fcd83.bin",
-  "sha256": "13b17819c41e3048a3ec806f1203ecc55286304a3f85131dd237ab32a1ba739e",
-  "size": 25842688,
-  "signature": "MEUCIQCTeLFr58L1iaaWhwbgiMt0ZyTgDfzOphIgdk96rgop2wIgTd1gQQfZZwfcn5PVLwvFl1GojypCpL9E3n+jVjnWhfU="
+  "version": "1.1.32",
+  "notes": "Tai khoan tu ket noi lai sau khi Muse doi giao dien; loi 502 khi tao anh/video tu thu lai va khong tao trung (API, tab Tao video/anh, SRT, Affiliate).",
+  "url": "data/caa3c78709cfc0887b28.bin",
+  "sha256": "b0d23f9e0986e239dadec71bd075123db485c1d2b840c34058907768248fd80f",
+  "size": 25886208,
+  "signature": "MEQCIGJ1YsmGjPsbvmwEmpDnlCeOTIbB+CEeCa30QbKC3WvRAiBYwr6VA0BrHq1uPO7tjQqYGVIEZhjqXoaXoo02A/2C9g=="
 }
