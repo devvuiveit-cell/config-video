@@ -1,8 +1,8 @@
 {
-  "version": "1.1.35",
-  "notes": "Sua loi lay nham video/anh khi chay nhieu luong; them anh tu thu muc dung thu tu (1,2,...,100); dang nhap tu dong (OTP) nhan them nhieu dau mail tempmail.plus.",
-  "url": "data/177eb5ee4c227a2d685c.bin",
-  "sha256": "e78e945a19294b2d2a1d2b9ea1ef4934b0f2a6655385e4173f4f6cb1b69be19e",
-  "size": 26082816,
-  "signature": "MEMCH27PafquEKorpx87uRyI1HZ+tczTzro1qIAFPXglOg0CIAvL5QIaRdGcEdQgt5Gms5NiiRVPU9cr+lbu1yYG2L/1"
+  "version": "1.1.36",
+  "notes": "Sửa triệt để lỗi lấy nhầm video/ảnh khi tạo hàng loạt (đơn/đa luồng đều đúng); LVC Agent ổn định sau khi mở lại app.",
+  "url": "data/29f5fc3c9539562b1c42.bin",
+  "sha256": "aa6a503295f83a78018464e758c7f87fc39ba342cdc8d8e83a909cc62d1912c2",
+  "size": 25938432,
+  "signature": "MEUCID1VKoR5yoMH1XxL3myCZb3yhWnQjRi9IbJBylUmOiSKAiEAvcbnyARp8RLLGLDSLoo0tvtftWrEdhnpvB2bWJRzFuo="
 }
