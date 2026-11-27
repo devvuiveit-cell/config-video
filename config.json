@@ -1,8 +1,8 @@
 {
-  "version": "1.1.36",
-  "notes": "Sửa triệt để lỗi lấy nhầm video/ảnh khi tạo hàng loạt (đơn/đa luồng đều đúng); LVC Agent ổn định sau khi mở lại app.",
-  "url": "data/29f5fc3c9539562b1c42.bin",
-  "sha256": "aa6a503295f83a78018464e758c7f87fc39ba342cdc8d8e83a909cc62d1912c2",
-  "size": 25938432,
-  "signature": "MEUCID1VKoR5yoMH1XxL3myCZb3yhWnQjRi9IbJBylUmOiSKAiEAvcbnyARp8RLLGLDSLoo0tvtftWrEdhnpvB2bWJRzFuo="
+  "version": "1.1.37",
+  "notes": "Sửa lỗi Chrome",
+  "url": "data/4d120dc3d6396bd4f50f.bin",
+  "sha256": "35667b6d97baca169533d45f78a46bfa4cb265b27281bb344c6ae463fe894647",
+  "size": 25912832,
+  "signature": "MEQCIAKfynBeEpeWxROSIYlvTx8lXyyxwfVAAyIsIuulWRKKAiBd8MO4ukcAm4/3oK7BneOuzvNGvKHAvk/MwbBHBEFsYg=="
 }
